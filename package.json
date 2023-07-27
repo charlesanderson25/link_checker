@@ -1,0 +1,25 @@
+{
+  "name": "linkchecker",
+  "version": "1.0.0",
+  "description": "\"Bliblioteca para verificação de links em uma página web\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesanderson25/link_checker.git"
+  },
+  "keywords": [
+    "[\"node.js\"",
+    "\"javascript\"",
+    "\"library\"",
+    "\"backend\"]"
+  ],
+  "author": "\"Charles Anderson\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesanderson25/link_checker/issues"
+  },
+  "homepage": "https://github.com/charlesanderson25/link_checker#readme"
+}
